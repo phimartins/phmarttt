@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como Analista de Big Data na Paylivre
 - 💻 Desenvolvo processos de ETL 
-- 📈 Desenvolvo Dashboards e Analiso dados identificar oportunidades de melhoria potencializar resultados
+- 📈 Desenvolvo Dashboards e Analiso dados para identificar oportunidades de melhoria potencializar resultados
 - 🌱 Estudando Google Cloud Platform para me tornar Cloud Engineer
 - 📧 email: philip.martt@outlook.com
 - 😄 Pronomes: Ele/Dele
