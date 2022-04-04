@@ -6,7 +6,7 @@
 - 📈 Desenvolvo Dashboards e Analiso dados para identificar oportunidades de melhoria e potencializar resultados
 - 🌱 Estudando Google Cloud Platform para me tornar Cloud Data Engineer
 - 📧 email: philip.martt@outlook.com
-- 😄 Pronomes: Ele/Dele
+
 ##
  <div>
   <a href="https://www.linkedin.com/in/philip-martins">
